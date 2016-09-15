@@ -1,0 +1,13 @@
+{
+  "name": "mpm-client",
+  "dependencies": {
+    "bluebird": "registry:npm/bluebird#3.4.1+20160909132857",
+    "chalk": "registry:npm/chalk#1.1.1+20160812215109",
+    "lodash": "registry:npm/lodash#4.0.0+20160723033700",
+    "request": "registry:npm/request#2.69.0+20160428223725"
+  },
+  "globalDependencies": {
+    "cli": "registry:dt/cli#0.11.2+20160319142606",
+    "node-4": "registry:dt/node-4#4.0.0+20160909145701"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "app name",
+  "version": 1,
+  "source": "",
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "settings": {
+    "meteorSetting1": "test",
+    "public": {
+
+    },
+    "private": {
+
+    }
+  },
+  "pm": [
+    {
+      "name": "serverName",
+      "url": "http://localhost:8701",
+      "username": "admin",
+      "password": "admin"
+    }
+  ]
+}

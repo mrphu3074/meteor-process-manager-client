@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "dist",
+    "target": "es5",
+    "module": "commonjs",
+    "watch": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "compileOnSave": true
+}
